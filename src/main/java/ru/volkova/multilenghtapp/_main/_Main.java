@@ -22,6 +22,7 @@ public class _Main {
 
         SegmentLength segmentLength = new SegmentLength();
         double result = segmentLength.segmentLength(x1, y1, x2, y2);
+
         System.out.println("Длина отрезка = " + result);
     }
 }

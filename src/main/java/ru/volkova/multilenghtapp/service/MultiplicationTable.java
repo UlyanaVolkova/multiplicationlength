@@ -1,7 +1,6 @@
 package ru.volkova.multilenghtapp.service;
 
 public class MultiplicationTable {
-
     public void multiplication() {
         int x;
         int y;
