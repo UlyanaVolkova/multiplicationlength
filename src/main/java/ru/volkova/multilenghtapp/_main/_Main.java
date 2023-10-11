@@ -6,7 +6,6 @@ import ru.volkova.multilenghtapp.service.SegmentLengthService;
 import java.util.Scanner;
 
 public class _Main {
-
     public static void main(String[] args) {
         MultiplicationTableService multiplicationTable = new MultiplicationTableService();
         multiplicationTable.printMultiplyTable();
