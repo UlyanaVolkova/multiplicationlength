@@ -1,7 +1,7 @@
 package ru.volkova.multilenghtapp.service;
 
-public class MultiplicationTable {
-    public void multiplication() {
+public class MultiplicationTableService {
+    public void printMultiplyTable() {
         int x;
         int y;
         for (x = 2; x < 6; x++) {
